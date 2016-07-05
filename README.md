@@ -22,7 +22,7 @@ La restricción del Pico y Placa está determinada por el último número de la 
 - Viernes, los automotores cuyo último dígito de la placa termine en 9 y 0
 
 
-How to run
+# How to run
 
 - `bundle exec rake`  : Runs the application and prints the output to the terminal.
 - `bundle exec rspec` : Runs the test suite;
